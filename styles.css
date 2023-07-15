@@ -275,23 +275,3 @@ body {
   white-space: nowrap;
 }
 
-.icon-item {
-  position: absolute;
-  top: 50%;
-  right: 30px;
-  transform: translateY(-50%);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-}
-
-.icon-item li {
-  list-style: none;
-}
-
-.icon-item li a {
-  display: inline-block;
-  margin: 5px 0;
-  transform: scale(0.6);
-}
