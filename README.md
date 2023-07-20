@@ -25,7 +25,7 @@
 
 ## Tech Used
 
-`JAVASCRIPT` `CSS` `HTML` `Mongo DB`
+`JAVASCRIPT` `CSS` `HTML` 
 
 AUTHORS
 
